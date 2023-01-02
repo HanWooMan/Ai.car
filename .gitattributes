@@ -1,0 +1,2 @@
+*.weights filter=lfs diff=lfs merge=lfs -text
+Ai.car-1/bin/*.weights filter=lfs diff=lfs merge=lfs -text
